@@ -2,9 +2,8 @@
 
 **Textform** is a lightweight, offline-first web app that lets you transform, clean, and analyze your text using an intuitive single-page interface.
 
----
 
-## 🌟 Features
+## Features
 
 * ✅ Uppercase, lowercase, title case, sentence case
 * ✅ snake\_case and kebab-case converters
@@ -14,8 +13,6 @@
 * ✅ Clean, responsive UI with accessible buttons
 * ✅ Works offline — all resources are local
 
-
----
 
 ## 🎨 Color Scheme (from Colours.cafe palette #48)
 
@@ -34,9 +31,8 @@
 
 No frameworks. No dependencies.
 
----
 
-## 📃 License
+## License
 
 MIT License © 2025 
 
