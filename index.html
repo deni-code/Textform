@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Textform</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>Textform</h1>
+      <p>Convert, clean, and analyze your text</p>
+    </header>
+
+    <section class="text-area">
+      <textarea id="inputText" placeholder="Enter or paste your text here..."></textarea>
+    </section>
+
+    <section class="buttons">
+      <h2>Transform</h2>
+      <button onclick="toUpperCase()">UPPER CASE</button>
+      <button onclick="toLowerCase()">lower case</button>
+      <button onclick="toTitleCase()">Title Case</button>
+      <button onclick="toSentenceCase()">Sentence case</button>
+      <button onclick="toSnakeCase()">snake_case</button>
+      <button onclick="toKebabCase()">kebab-case</button>
+      <button onclick="removeDuplicates()">Remove Duplicate Lines</button>
+      <button onclick="countStats()">Count Words & Characters</button>
+      <button onclick="clearText()">Clear</button>
+    </section>
+
+    <section class="stats" id="stats"></section>
+
+    <footer>
+      <p>Textform | Offline-first utility</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
