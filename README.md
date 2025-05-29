@@ -5,13 +5,13 @@
 
 ## Features
 
-* ✅ Uppercase, lowercase, title case, sentence case
-* ✅ snake\_case and kebab-case converters
-* ✅ Remove duplicate lines
-* ✅ Word and character count
-* ✅ Clear text box functionality
-* ✅ Clean, responsive UI with accessible buttons
-* ✅ Works offline — all resources are local
+*  Uppercase, lowercase, title case, sentence case
+*  snake\_case and kebab-case converters
+*  Remove duplicate lines
+*  Word and character count
+*  Clear text box functionality
+*  Clean, responsive UI with accessible buttons
+*  Works offline — all resources are local
 
 
 ## 🎨 Color Scheme (from Colours.cafe palette #48)
